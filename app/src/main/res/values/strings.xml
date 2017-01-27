@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">SmartBuilding</string>
+
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="tmpString">Temperature:</string>
+    <string name="tmpUnitString">degrees Celsius</string>
+    <string name="lumString">Light Intensity:</string>
+    <string name="lumUnitString">/ 5.0</string>
+    <string name="humString">Humidity:</string>
+    <string name="humUnitString">Percent</string>
+    <string name="numString">Number of People:</string>
+    <string name="numUnitString">person(s)</string>
+    <string name="dstString">Door State:</string>
+    <string name="doorOpenString">Opened</string>
+    <string name="doorCloseString">Closed</string>
+
+    <string name="urlStringEditText">Server URL:</string>
+    <string name="httpStringEditText" translatable="false"> http:// </string>
+    <string name="requestStringEditText">Requests:</string>
+    <string name="fontSizeStringEditText">Font Size:</string>
+
+    <string name="submitString">Submit</string>
+
+    <!-- settings preferences strings -->
+    <string name="pref_connectionGroupTitleString">Connection Settings</string>
+    <string name="pref_appearanceGroupTitleString">Appearance Settings</string>
+    <string name="pref_serverUrlTitleString">Server Url Address</string>
+    <string name="pref_serverUrlParamsTitleString">Requested Information</string>
+    <string name="pref_fontSizeTitleString">Font Size</string>
+</resources>

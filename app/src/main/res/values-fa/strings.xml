@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ساختمان هوشمند</string>
+    <string name="action_settings">تنظیمات</string>
+    <string name="doorCloseString">باز</string>
+    <string name="doorOpenString">بسته</string>
+    <string name="dstString">وضعیت در:</string>
+    <string name="fontSizeStringEditText">اندازه ی فونت:</string>
+    <string name="humString">میزان رطوبت:</string>
+    <string name="humUnitString">درصد</string>
+    <string name="lumString">شدت نور:</string>
+    <string name="lumUnitString">از 5.0</string>
+    <string name="navigation_drawer_close">بستن منوی کناری</string>
+    <string name="navigation_drawer_open">باز کردن منوی کناری</string>
+    <string name="numString">تعداد افراد:</string>
+    <string name="numUnitString">نفر</string>
+    <string name="requestStringEditText">اطلاعات درخواستی:</string>
+    <string name="submitString">ثبت</string>
+    <string name="tmpString">دما:</string>
+    <string name="tmpUnitString">درجه سانتی گراد</string>
+    <string name="urlStringEditText">آدرس سرور:</string>
+    <string name="title_activity_settings">تنظیمات</string>
+    <string name="pref_appearanceGroupTitleString">تنظیمات ظاهری</string>
+    <string name="pref_connectionGroupTitleString">تنظیمات اتصال</string>
+    <string name="pref_fontSizeTitleString">اندازه قلم</string>
+    <string name="pref_serverUrlParamsTitleString">اطلاعات درخواستی</string>
+    <string name="pref_serverUrlTitleString">آدرس سرور</string>
+</resources>
